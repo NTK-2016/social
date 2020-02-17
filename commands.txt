@@ -1,0 +1,15 @@
+show dbs use to display database list
+use mernproject
+show collections
+db.users.find()
+
+
+
+isdeleted
+0
+1
+
+
+check server also 
+
+db.users.update({"_id":5d2305507914a614cc4717a9},{$set:{"creator":"1"}});

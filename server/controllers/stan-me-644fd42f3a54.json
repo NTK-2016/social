@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "stan-me",
+  "private_key_id": "644fd42f3a5409e088e4cc68a0090a1e1d3a10f4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCDtKgeq6G1Ha4S\nY0NpF6WTsM9Lp09Ej8+Yq55t5KC97QKy8LmeB4Vs8x+7x/VQDHZ8r/A/YngzQgb7\nxNBtATaUbDvIkAWtnxssmRA9xknAxMOUa2imvdFh94Xvwq2KnAjmjI8xc45FD10n\n6MGOnpTkG+Sl0Szd1zWJBfjXJzMVsvrDdfN8X2l73LtfomwlRveUuwr9uIUX5HKQ\n9nNUVWLbaHq7zM2icIgz7v7aGUHFz1mmL84VCNE/bfJdM0Z3C7FqAB0bLiKfDkQb\nZC23eMn/i5GuGTlcYVMz/Fj9uLOFANcs5tqvvGgfPeyYnv1qKwNXgg2jDWtpcPkG\nw4RA6Yp1AgMBAAECgf8HwofP8XeASaoNQKFNeoHcRyPvkSwFHh6ydWogOhg+bc3Q\nPTQH25RA7GeHk4B19vCu6AQqYo2HzPFxuWbjr+6cpW6K9/FdtBd7HomWb4MTmIRC\nz7vwFxRUcVZdigWE5SyhE3xcWDKfCbNeEUNWOSxh7u10gkk3yODz8dDM3G0QxM/e\nLxabciO0YtweSJ0wlP2f5sOSjg3hCtZcXCCh2XCN4HKF3coLTChxe4tyEEy2mhJh\nofUhd1kTb+PF+SYmmiqkm/hfToW0IYHEyf5rucnCb9/BO3dJpI/mW+riWuGuY5P0\nXBq45CsutVdCnbBPLRhSvbwbP2/PoS/FrGGDJmECgYEAuNdlO95tJ6gyzFGj4aqJ\ntaB6huOyJZ6wgxzXJHwsQ8DFQk3bOKOuBivjQMHYqTrlNq6ERTmHC36lxb88rfWy\n/+SAeBnwm+Rb3qf9zGquW5cqUyYboCI6w7D6k4X3sGGNTr08Rj6Gn+Tsot5duPAD\nmVQhWKVE5Q4SchMOdh+vrCECgYEAtmiZPUiBKg6hxIxEJRimZKKilYRZFaH+wmyI\nK56QkHmv7FelkNtX1DiTuagXqQ61NaOUz1lD5vuXQRcYcaBxAjivOdOGCKzISAn1\nBKIrTiCrWmQ9val0ElLXnJDUi7ecZOeHopu27SoEhD/wGeaGYvPFjo/CIlo+CVNu\nkVfc89UCgYEAuGbCatDCqs6FJwrHaKl+ysC3m/xqTFedFqBeDdsHOeyFnlkXu9Cn\nGycLhx4cLPBBnaTK9lim3hPSA45+VboJgnoOpEKUpKFT+bQ0YYuIOH19Twh0hPPB\nFltoEGaVLNSVaZkmGZnlKnzyiqU2cPqZTIz+23W9XpoEUuOqCLQhyKECgYEAlS6A\nvWUx9hKXbOcGyIwbccytSbk/HnkpoRsgVwRM2UwcfB/Gke1CLJfFAZ8fEq2ruF27\n08T+ysdTEfHwlOWR5y4y6Qk84pVlC73Q/OQgpLoFSl0XPal7+4xzOGIe4tHc/414\nGZ5egiLOJNch6BzoJb+XABxEutGxUPFCSW5hj60CgYA8jagl9Ljc/NvyEXXLYxXi\nM5UZ9WPEqWso2fmY72yaQkfM2FH9Jz61H53l+R6EEaipWaMAHfZQSGbheWH65AnR\nOri6V8rzDBZYXLa5tZHhIZxp2z+OxXMC/FZ6KBo5hYAIkSdT641PEcmsXrHjK54q\nAmgzsuidRNxlG4BH8ZdWUQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "stanme-emails@stan-me.iam.gserviceaccount.com",
+  "client_id": "112719309232683699451",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stanme-emails%40stan-me.iam.gserviceaccount.com"
+}
